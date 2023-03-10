@@ -4,4 +4,4 @@
 - 🌱 Estudando python
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carlosrodrigues23)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosrodrigues23)](https://github.com/anuraghazra/github-readme-stats)
