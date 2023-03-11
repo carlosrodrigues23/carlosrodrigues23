@@ -1,7 +1,7 @@
 ##  Olá sou o carlos gabriel
 
-- 📕 No momento estudo C e python
-- 💻 Estudando python
+- 📕
+- 💻 No momento estudo C e python
 - 😄 Pronomes: ele/dele
 
 
