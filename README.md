@@ -1,6 +1,6 @@
 ##  Olá sou o carlos gabriel
 
-- 📕 Sou estudante do IFPA Campos Castanhal 
+- 📕 Sou estudante do IFPA Campus Castanhal 
 - 💻 No momento estudo C e python
 - 😄 Pronomes: ele/dele
 
