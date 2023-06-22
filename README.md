@@ -1,7 +1,7 @@
 ##  Olá sou o carlos gabriel
 
 - 📕 Sou estudante do IFPA Campus Castanhal 
-- 💻 No momento estudo Kotlin e Python
+- 💻 No momento estudo DART
 - 😄 Pronomes: ele/dele
 
 
